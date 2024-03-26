@@ -1,7 +1,7 @@
 # React Essentials Documentation
 ### This documentation provides an overview of a React project aimed at helping developers understand its structure and functionality.
+<img src="./src/assets/bannerApp.png" alt="Banner Project">
 
-[!image](./src/assets/bannerApp.png)
 
 ## Project Overview
 - This React project is designed to showcase essential concepts and examples for building React applications. It covers fundamental concepts like components, JSX, props, and state, providing examples and explanations for each.
